@@ -21,4 +21,4 @@
     Run the program: Type the following command to run the program: ./run1
  </li>
 </ul>
-That's it! You should now be able to run the program and generate the sequence of numbers for the piecewise recurrence relation.
+That's it! You should now be able to run the program .
